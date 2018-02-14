@@ -30,5 +30,5 @@ def astr(jour, mois):
           
 jour = int(input("Entrer le jour: "))
 mois = int(input("Entrer le mois: "))
-
+#ckeck before print /*** to fixed ***/
 print("Votre signe astrologique est: " + astr(jour, mois))
