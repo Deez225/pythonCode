@@ -1,6 +1,6 @@
 def astr(jour, mois):
 
-    if (mois == 3 and (jour >= 1 and jour <= 31)) or (mois == 4 and (jour >= 1 and jour <= 20)):
+    if (mois == 3 and (jour >= 21 and jour <= 31)) or (mois == 4 and (jour >= 1 and jour <= 20)):
         return "Belier"
     elif (mois == 4 and (jour >= 21 and jour <= 30) or (mois == 5 and (jour >= 1 and jour <= 21))):
           return "Taureau"
