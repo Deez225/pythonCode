@@ -12,8 +12,7 @@ The best way IMHO(In My Humble Opinion) is to decomposed like this:
  
  
  21 March  to 31 March 
- 
- |---------------------------------------------------|    
+ |-----------|    
  
        
  1 April to 19 April
