@@ -26,7 +26,7 @@ The best way IMHO(In My Humble Opinion) is to decomposed like this:
 3-March
 4-April
 ...
-For more information https://en.wikipedia.org/wiki/Astrological_sign
+For more information https://en.wikipedia.org/wiki/Astrological_sign 
 
 Thanks to my friend hackaton94 who submitted me his problem for checking between month. 
     
