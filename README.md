@@ -23,8 +23,10 @@ The best way IMHO(In My Humble Opinion) is to decomposed like this:
  
  From where the python code:
  
- if (mois == 3 and (jour >= 21 and jour <= 31)) or (mois == 4 and (jour >= 1 and jour <= 20)):
-    |-----------------------------------------|     |----------------------------------------|
+ if (mois == 3 and (jour >= 21 and jour <= 31)) 
+     |-----------| 
+    or (mois == 4 and (jour >= 1 and jour <= 20)):
+    |--------------------------|
 
 1-January
 2-February
